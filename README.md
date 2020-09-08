@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0fengzi0</h1>
 
-<p align="center"> 
-  <h3>这是我的主页第<img src="https://profile-counter.glitch.me/0fengzi0/count.svg" />访问</h3>
-</p>
+<h2 align="center">这是我的主页第<img src="https://profile-counter.glitch.me/0fengzi0/count.svg" />访问</h2>
 
 <a href="https://github.com/0fengzi0">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=0fengzi0&show_icons=truet&include_all_commits=True&hide=contribs" alt="my github stats" />
