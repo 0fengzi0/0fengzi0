@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=0fengzi0&layout=compact" />
 </a>
 
-<h2 align="center">我的其他项目</h2>
+<h2 align="center">我的项目</h2>
 
 |name | repo|
 | :-: | :-: |
