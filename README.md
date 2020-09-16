@@ -13,7 +13,7 @@
 
 <h2 align="center">我的项目</h2>
 
-|name | repo|
+| 演示地址 | 仓库 |
 | :-: | :-: |
 | [个人博客](http://5ixf.vip) | [G-Blog](https://github.com/0fengzi0/G-Blog) |
 | [VOCALTTS-V家语音合成](http://tts.5ixf.vip) | [vocaltts-html](https://github.com/0fengzi0/vocaltts-html) |
