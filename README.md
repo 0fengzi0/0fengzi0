@@ -21,4 +21,4 @@
 | [Html学习项目]() | [My_Html_Study](https://github.com/0fengzi0/My_Html_Study) |
 | [Python学习项目]() | [My_Python_Study](https://github.com/0fengzi0/My_Python_Study) |
 | [我的Vue项目模板]() | [My_Vue_template](https://github.com/0fengzi0/My_Vue_template) |
-| [KDS叫号]() | [KDS叫号](https://github.com/0fengzi0/KDS) |
+| [KDS叫号]() | [KDS](https://github.com/0fengzi0/KDS) |
