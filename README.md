@@ -21,4 +21,4 @@
 | Html学习项目 | [My_Html_Study](https://github.com/0fengzi0/My_Html_Study) | 我的前端学习存档 |
 | Python学习项目 | [My_Python_Study](https://github.com/0fengzi0/My_Python_Study) | 我的Python学习存档 |
 | 我的Vue项目模板| [My_Vue_template](https://github.com/0fengzi0/My_Vue_template) | 我的Vue项目模板 |
-| KDS叫号 | [KDS](https://github.com/0fengzi0/KDS) | 一个用来排队叫号的安卓应用 |
+| KDS叫号 | [KDS](https://github.com/isancha/KDS) | 一个用来排队叫号的安卓应用 |
