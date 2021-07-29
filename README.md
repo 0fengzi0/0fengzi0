@@ -24,6 +24,6 @@
 
 <h2 align="center">其他我</h2>
 
-- [个人博客](http://5ixf.vip)
-- [哔哩哔哩Up主](https://space.bilibili.com/13938564)
-- [网易云音乐人](https://music.163.com/#/user/home?id=300712191)
+- [博客~风](http://5ixf.vip)
+- [哔哩~风](https://space.bilibili.com/13938564)
+- [网易音乐~风](https://music.163.com/#/user/home?id=300712191)
