@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=0fengzi0&layout=compact" />
 </a>
 
-<img align="center" alt="Genshin game card" width="500" src="https://genshin-card.getloli.com/detail/rand/276250476.png" />
+<img alt="Genshin game card" src="https://genshin-card.getloli.com/detail/rand/276250476.png" width="500">
 
 <h2 align="center">我的项目</h2>
 
