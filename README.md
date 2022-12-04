@@ -28,4 +28,4 @@
 
 - [博客~风](http://5ixf.vip)
 - [哔哩~风](https://space.bilibili.com/13938564)
-- [网易音乐~风](https://music.163.com/#/user/home?id=300712191)
+- [音乐~风](https://music.163.com/#/user/home?id=300712191)
