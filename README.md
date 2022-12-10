@@ -2,16 +2,18 @@
 
 <p align="center">这是第<img src="https://profile-counter.glitch.me/0fengzi0/count.svg" />次访问</p>
 
+
 <a href="https://github.com/0fengzi0">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=0fengzi0&show_icons=truet&include_all_commits=True&hide=contribs" alt="my github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0fengzi0&show_icons=true&theme=transparent" alt="my github stats" />
 </a>
 
 <a href="https://github.com/0fengzi0">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=0fengzi0&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0fengzi0&layout=compact&show_icons=true&theme=transparent" />
 </a>
 
-<img alt="Genshin game card" src="https://genshin-card.getloli.com/detail/rand/276250476.png" width="500">
+<h2 align="center">我的原神</h2>
+
+<img alt="Genshin game card" src="https://genshin-card.himiku.com/rand/276250476.png" width="500">
 
 <h2 align="center">我的项目</h2>
 
